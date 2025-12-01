@@ -1,0 +1,20 @@
+Country,Sector,Regulator/Council,Primary Focus,Website
+Ireland,Finance/Banking,Central Bank of Ireland (CBI),Both,www.centralbank.ie
+,Finance/Banking,Financial Services and Pensions Ombudsman (FSPO),Both,www.fspo.ie
+,Medical/Health,Health Products Regulatory Authority (HPRA),Both,www.hpra.ie
+,Data Protection,Data Protection Commission (DPC),Both,www.data-protection.ie
+,Aviation,Irish Aviation Authority (IAA),"Both (Safety, security, consumer, and economic regulation)",www.iaa.ie
+,Road/Rail Transport,National Transport Authority (NTA),"Both (Regulates public transport, licensing, and infrastructure)",www.nationaltransport.ie
+UK,Finance/Banking,Financial Conduct Authority (FCA),Both (Conduct and consumer protection),www.fca.org.uk
+,Finance/Banking,Prudential Regulation Authority (PRA),Business (Financial stability of firms),www.bankofengland.co.uk/pra
+,Medical/Health,Medicines and Healthcare products Regulatory Agency (MHRA),Both,www.gov.uk/mhra
+,Medical/Health,Care Quality Commission (CQC),Both (Regulates quality of health/social care services),www.cqc.org.uk
+,Data Protection,Information Commissioner's Office (ICO),Both,www.ico.org.uk
+,Aviation,Civil Aviation Authority (CAA),"Both (Safety, economic regulation of airports, and ATOL consumer scheme)",www.caa.co.uk
+,Rail Transport,Office of Rail and Road (ORR),Both (Regulates railway safety and monitors Highways England),www.orr.gov.uk
+USA,Finance/Banking,Consumer Financial Protection Bureau (CFPB),Consumer,www.consumerfinance.gov
+,Finance/Banking,Federal Reserve System (The Fed),Business (Central bank oversight and stability),www.federalreserve.gov
+,Medical/Health,Food and Drug Administration (FDA),Both (Drug/device safety and manufacturer oversight),www.fda.gov
+,Data Protection,Federal Trade Commission (FTC),Both (General consumer protection and data privacy enforcement),www.ftc.gov
+,Aviation,Federal Aviation Administration (FAA),"Both (Regulates aviation safety, pilots, and air traffic operations)",www.faa.gov
+,Surface/Rail Transport,Department of Transportation (DOT),"Both (Sets policy and standards for surface transport, safety)",www.transportation.gov
